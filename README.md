@@ -4,11 +4,12 @@ This code gives a brief understanding of how to use the surprise library for Rec
 
 MovieLens-100K : This data set consists of:
 
-	* 100,000 ratings (1-5) from 943 users on 1682 movies. 
+   -100,000 ratings (1-5) from 943 users on 1682 movies. 
 	
-	* Each user has rated at least 20 movies.
+   -Each user has rated at least 20 movies.
 
 The flow of the project is:
+
 1-EDA
 
 2-Model Selection
@@ -23,7 +24,7 @@ The flow of the project is:
 
   - FInding the threshold value using the F1 score
   
-  -Finding the optimal value for K using precision and recall
+  - Finding the optimal value for K using precision and recall
   
 7-Recommendations to users
 
