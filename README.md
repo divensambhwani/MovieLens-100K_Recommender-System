@@ -9,6 +9,7 @@ MovieLens-100K : This data set consists of:
 The flow of the project is:
 1-EDA
 2-Model Selection
+
 3-Tuning algorithm parameters
 4-Training and Testing the model
 5-Analysis on the predictions
