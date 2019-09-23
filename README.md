@@ -22,7 +22,7 @@ The flow of the project is:
 
 6-K Recommendations
 
-  - FInding the threshold value using the F1 score
+  - Finding the threshold value using the F1 score
   
   - Finding the optimal value for K using precision and recall
   
